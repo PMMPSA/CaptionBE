@@ -1,0 +1,51 @@
+# The Discord log configuration for Aldous.
+# This is experimental feature, and it wasn't finished yet.
+
+# It may have bugs, glitches or errors when webhook has set.
+# Help us to finish this by adding or replace some functions.
+
+discord:
+  active: false
+  webhook: ""
+  username: "Discord Bot"
+  avatar: ""
+  
+startup-embed:
+  description: "The server has started!"
+  thumbnail: ""
+  image: ""
+  color: ""
+
+shutdown-embed:
+  description: "The server has shutdown!"
+  thumbnail: ""
+  image: ""
+  color: ""
+
+join-embed:
+  # Prefixes: %player
+  description: "%player joined the server!"
+  thumbnail: ""
+  image: ""
+  color: ""
+
+quit-embed:
+  # Prefixes: %player
+  description: "%player left the server!"
+  thumbnail: ""
+  image: ""
+  color: ""
+
+death-embed:
+  # Prefixes: %player
+  description: "%player killed!"
+  thumbnail: ""
+  image: ""
+  color: ""
+
+chat-embed:
+  # Prefixes: %player, %message
+  description: "%player > %message"
+  thumbnail: ""
+  image: ""
+  color: ""

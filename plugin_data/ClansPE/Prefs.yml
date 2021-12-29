@@ -1,0 +1,13 @@
+---
+MaxClanNameLength: 15
+MaxPlayersPerClan: 30
+OnlyLeadersAndOfficersCanInvite: true
+PowerGainedPerPlayerInClan: 50
+PowerGainedPerKillingAnEnemy: 10
+PowerGainedPerAlly: 100
+AllyLimitPerClan: 5
+TheDefaultPowerEveryClanStartsWith: 0
+AllowChat: true
+AllowClanPvp: false
+AllowAlliedPvp: false
+...

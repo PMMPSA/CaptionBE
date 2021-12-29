@@ -1,0 +1,11 @@
+name: AntiEnchantmentAbuse
+main: radondev\AntiEnchantmentAbuse\AntiEnchantmentAbuse
+version: 1.1.0
+api: 3.0.0
+website: "https://github.com/radondev"
+author: "radondev"
+
+permissions:
+  antienchantmentabuse:
+    default: op
+    description: Allows items with enchantments levels over the max value

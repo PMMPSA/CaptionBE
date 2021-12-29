@@ -1,0 +1,35 @@
+price:
+
+  others:
+    baby: 10
+
+  pets:
+    bat: 20
+    blaze: 30
+    cavespider: 20
+    chicken: 20
+    cow: 20
+    creeper: 50
+    donkey: 20
+    enderman: 100
+    endermite: 40
+    evoker: 29
+    ghast: 70
+    horse: 50
+    husk: 20
+    irongolem: 100
+    llma: 70
+    mooshroom: 50
+    ocelot: 30
+    pig: 20
+    polarbear: 30
+    rabbit: 20
+    sheep: 20
+    skeletonhorse: 40
+    skeleton: 30
+    slime: 25
+    vex: 30
+    wolf: 30
+    spider: 20
+
+#Do not add here, just modify

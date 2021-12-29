@@ -1,0 +1,10 @@
+---
+tempo:
+  horas: 1
+  minutos: 0
+  segundos: 0
+message: |-
+  §l§c ALTAR DAS CAIXAS §r
+  §7    {barra}
+          §f{tempo}
+...

@@ -1,0 +1,23 @@
+name: Wings
+api: 3.0.0
+version: 2.0
+author: MrDinoDuck
+main: Wings\Main
+commands:
+ wing:
+  description: "Add hiệu ứng wing cho player. CẢNH BÁO có thể gây nghiện :3"
+  default: true
+
+permission:
+ angel.perm:
+  default: op
+  description: Red Wing Permission
+ red.wing:
+  default: op
+  description: Red Wing Permission
+ green.wing:
+  default: op
+  description: Green Wing Permission
+ flame.wing:
+  default: op
+  description: Yellow Wing Permission
